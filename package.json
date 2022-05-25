@@ -1,0 +1,28 @@
+{
+  "name": "studying-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericksont/studying-nodejs.git"
+  },
+  "author": "Erickson Tavares",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericksont/studying-nodejs/issues"
+  },
+  "homepage": "https://github.com/ericksont/studying-nodejs#readme",
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.26.0",
+    "@typescript-eslint/parser": "^5.26.0",
+    "cors": "^2.8.5",
+    "eslint": "^8.16.0",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16",
+    "typescript": "^4.7.2"
+  }
+}
